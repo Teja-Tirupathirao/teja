@@ -1,0 +1,26 @@
+; EclipseCrossword (1.2.62) crossword puzzle
+; Get EclipseCrossword free at:
+; http://www.eclipsecrossword.com
+
+Title:  vvit
+Width:  20
+Height:  20
+CodePage:  0
+Author:  teja
+Copyright:  © 2020
+
+; ------------------------------------------------------------
+* Across words
+; ------------------------------------------------------------
+
+SAI:  9, 9:  it-c
+INDUHASA:  10, 11:  IT_A
+
+; ------------------------------------------------------------
+* Down words
+; ------------------------------------------------------------
+
+ASIF:  10, 9:  it-c boy
+SRAVANI:  15, 9:  IT_B
+TEJA:  17, 8:  my name
+
